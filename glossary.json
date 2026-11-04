@@ -1,0 +1,203 @@
+{
+  "compostagem": {
+    "title": "Compostagem",
+    "paragraphs": [
+      "É um processo em que restos de alimentos e outros materiais orgânicos se transformam em composto, com a ação de seres vivos, como bactérias e fungos. Você organiza e cuida desse processo para aproveitar o material no solo e no cultivo."
+    ],
+    "sources": [
+      {
+        "name": "Prefeitura de Joinville - conceito e finalidade da compostagem",
+        "url": "https://www.joinville.sc.gov.br/servicos/como-fazer-compostagem/"
+      }
+    ]
+  },
+  "organicos": {
+    "title": "Resíduos orgânicos",
+    "paragraphs": [
+      "Cascas, talos, folhas e restos de alimentos são exemplos. Eles devem ser separados das embalagens. Cada método de compostagem tem orientações próprias sobre o que pode receber."
+    ],
+    "sources": [
+      {
+        "name": "Prefeitura de Joinville - conceito e finalidade da compostagem",
+        "url": "https://www.joinville.sc.gov.br/servicos/como-fazer-compostagem/"
+      }
+    ]
+  },
+  "composto": {
+    "title": "Composto orgânico",
+    "paragraphs": [
+      "É o material formado ao final de uma compostagem bem conduzida. Ele ajuda a melhorar as condições do solo e pode ser usado no cultivo, conforme as necessidades das plantas."
+    ],
+    "sources": [
+      {
+        "name": "Prefeitura de Joinville - conceito e finalidade da compostagem",
+        "url": "https://www.joinville.sc.gov.br/servicos/como-fazer-compostagem/"
+      },
+      {
+        "name": "Royal Horticultural Society - compostagem e composto pronto",
+        "url": "https://www.rhs.org.uk/soil-composts-mulches/composting"
+      }
+    ]
+  },
+  "bokashi": {
+    "title": "Bokashi",
+    "paragraphs": [
+      "Bokashi é um método que começa com a fermentação dos restos de alimentos em um balde fechado. Um produto próprio, o farelo para Bokashi, traz os microrganismos que ajudam nessa transformação.",
+      "Depois do período no balde, os restos ainda precisam se decompor com terra ou em outra composteira antes do uso no cultivo."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      },
+      {
+        "name": "University of Saskatchewan - Bokashi e finalização com terra",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-healthysoils/bokashi.php"
+      }
+    ]
+  },
+  "farelo": {
+    "title": "Farelo para Bokashi",
+    "paragraphs": [
+      "É um produto com microrganismos, seres muito pequenos, como algumas bactérias, que ajudam a fermentar os restos de alimentos. Você espalha esse farelo sobre cada nova camada no balde.",
+      "“Farelo inoculado” significa que esses microrganismos foram acrescentados ao farelo. Farelo comum de cozinha e serragem comum não substituem o produto próprio para Bokashi. Siga o rótulo para quantidade, armazenamento e manuseio."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      },
+      {
+        "name": "University of Saskatchewan - Bokashi e finalização com terra",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-healthysoils/bokashi.php"
+      }
+    ]
+  },
+  "fermentacao": {
+    "title": "Fermentação dos restos de alimentos",
+    "paragraphs": [
+      "É a transformação dos restos de alimentos dentro do balde fechado, com a ajuda dos microrganismos presentes no farelo para Bokashi. Os restos ficam ácidos e podem continuar com aparência de comida.",
+      "Depois dessa fermentação, misture os restos com terra ou leve a uma composteira que aceite recebê-los. A decomposição ainda precisa acontecer antes do uso no cultivo."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      },
+      {
+        "name": "University of Saskatchewan - Bokashi e finalização com terra",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-healthysoils/bokashi.php"
+      }
+    ]
+  },
+  "micro": {
+    "title": "Microrganismos",
+    "paragraphs": [
+      "São seres tão pequenos que, em geral, não conseguimos vê-los sem ajuda de instrumentos. Bactérias e fungos são exemplos. Alguns participam da transformação dos restos orgânicos durante a compostagem."
+    ],
+    "sources": [
+      {
+        "name": "Prefeitura de Joinville - conceito e finalidade da compostagem",
+        "url": "https://www.joinville.sc.gov.br/servicos/como-fazer-compostagem/"
+      },
+      {
+        "name": "Royal Horticultural Society - compostagem e composto pronto",
+        "url": "https://www.rhs.org.uk/soil-composts-mulches/composting"
+      }
+    ]
+  },
+  "decomposicao": {
+    "title": "Decomposição",
+    "paragraphs": [
+      "É a transformação dos materiais orgânicos em partes mais simples pela ação de seres vivos, como bactérias e fungos. Na compostagem, você cuida das condições para que esse processo aconteça de forma adequada."
+    ],
+    "sources": [
+      {
+        "name": "Prefeitura de Joinville - conceito e finalidade da compostagem",
+        "url": "https://www.joinville.sc.gov.br/servicos/como-fazer-compostagem/"
+      }
+    ]
+  },
+  "fermentado": {
+    "title": "Restos de alimentos após a fermentação",
+    "paragraphs": [
+      "É o que chamamos de “material fermentado”: os restos de alimentos depois do período de fermentação no balde. Eles ainda estão ácidos e não são composto pronto.",
+      "Misture esses restos com terra em um recipiente adequado ou leve a uma composteira que aceite recebê-los. Espere a decomposição antes de usar no cultivo."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      },
+      {
+        "name": "University of Saskatchewan - Bokashi e finalização com terra",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-healthysoils/bokashi.php"
+      }
+    ]
+  },
+  "vedacao": {
+    "title": "Vedação: fechamento sem frestas",
+    "paragraphs": [
+      "É o fechamento da tampa e dos encaixes para reduzir a entrada de ar. No Bokashi, mantenha o balde bem fechado entre as adições, porque os restos de alimentos fermentam com pouca presença de ar."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      }
+    ]
+  },
+  "drenagem": {
+    "title": "Drenagem: retirada do líquido",
+    "paragraphs": [
+      "Durante a fermentação dos restos de alimentos, pode se acumular líquido no coletor. Retirar esse líquido é fazer a drenagem.",
+      "Coloque um pote sob a torneira do próprio balde, recolha o líquido e feche a torneira ao terminar. Não acrescente água para fazer essa retirada."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      },
+      {
+        "name": "University of Saskatchewan - Bokashi e finalização com terra",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-healthysoils/bokashi.php"
+      }
+    ]
+  },
+  "maturacao": {
+    "title": "Maturação",
+    "paragraphs": [
+      "É a fase final da compostagem, quando a decomposição fica mais lenta e o composto termina de se formar. Aguarde essa fase antes de usar o material no cultivo. O prazo varia conforme os materiais e os cuidados com o processo."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - compostagem e composto pronto",
+        "url": "https://www.rhs.org.uk/soil-composts-mulches/composting"
+      }
+    ]
+  },
+  "xp": {
+    "title": "Pontos de experiência (XP)",
+    "paragraphs": [
+      "São pontos pelas atividades concluídas na Kompô. Uma lição vale 25 XP, e um desafio aprovado vale 50 XP, uma única vez. Eles mostram seu progresso nas atividades da plataforma."
+    ],
+    "sources": []
+  },
+  "diluicao": {
+    "title": "Diluição do líquido do Bokashi",
+    "paragraphs": [
+      "Diluir é misturar o líquido recolhido do balde com água na proporção indicada para uma aplicação. Essa proporção pode mudar entre produtos e sistemas.",
+      "Não aplique o líquido puro nas plantas. Siga a orientação do seu próprio sistema; se não houver uma instrução confiável de aplicação, não use o líquido no cultivo."
+    ],
+    "sources": [
+      {
+        "name": "Royal Horticultural Society - manejo do Bokashi",
+        "url": "https://www.rhs.org.uk/garden-inspiration/get-gardening/bokashi"
+      },
+      {
+        "name": "University of Saskatchewan - Bokashi e finalização com terra",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-healthysoils/bokashi.php"
+      }
+    ]
+  }
+}
